@@ -9,7 +9,7 @@ Formado em Manutenção e Suporte de Sistemas pelo IFSP, atualmente cursando An�
 - Técnico em Manutenção e Suporte de Sistemas — IFSP
 - Análise e Desenvolvimento de Sistemas — IFSP (em andamento)
 
-## 🚀 Tecnologias que estou desenvolvendo
+## 🚀 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,mysql,git)](https://skillicons.dev)
 ## 📌 Projetos

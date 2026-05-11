@@ -1,5 +1,7 @@
 # Olá, eu sou o Vinicius! 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&width=435&lines=Desenvolvedor+em+formação+☕;Apaixonado+por+tecnologia+🚀;Sempre+aprendendo+e+evoluindo+⚡)](https://git.io/typing-svg)
+
 Formado em Manutenção e Suporte de Sistemas pelo IFSP, atualmente cursando Análise e Desenvolvimento de Sistemas também pelo IFSP. Estou em constante evolução, desenvolvendo meus conhecimentos em programação e buscando crescer cada vez mais na área de tecnologia.
 
 ## 🎓 Formação

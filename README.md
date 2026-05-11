@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Vinicius! 👋
 
-<!--
-**ViniNoCash/ViniNoCash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Formado em Manutenção e Suporte de Sistemas pelo IFSP, atualmente cursando Análise e Desenvolvimento de Sistemas também pelo IFSP.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que estou aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Python
+- SQL
+
+## 📌 Projetos
+
+- [FormataOne](https://github.com/ViniNoCash/FormataOne) — Aplicação desktop em Java (Swing) para formatação de CPF e CNPJ.
+
+## 📫 Contato
+
+- 📧 vinicius.marquess2004@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/vinicius-marques-476354223)

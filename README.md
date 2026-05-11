@@ -11,7 +11,7 @@ Formado em Manutenção e Suporte de Sistemas pelo IFSP, atualmente cursando An�
 
 ## 🚀 Tecnologias que estou desenvolvendo
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,git)](https://skillicons.dev)
 ## 📌 Projetos
 
 - [FormataOne](https://github.com/ViniNoCash/FormataOne) — Aplicação desktop em Java (Swing) para formatação de CPF e CNPJ.

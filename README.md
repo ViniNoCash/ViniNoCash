@@ -1,6 +1,6 @@
 # Olá, eu sou o Vinicius! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&width=435&lines=Desenvolvedor+em+formação+☕;Apaixonado+por+tecnologia+🚀;Sempre+aprendendo+e+evoluindo+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&width=435&lines=Desenvolvedor+em+formação+☕;Sempre+aprendendo+e+evoluindo+⚡)](https://git.io/typing-svg)
 
 ## 👤 Um pouco sobre mim
 
